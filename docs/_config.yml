@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   in the Department of Astronomy at Cornell University.
 baseurl: "AbbyBoehm.github.io" # the subpath of your site, e.g. /blog
 domain: "abbyboehm.github.io"
-url: "https://abbyboehm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://abbyboehm.github.io/main/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
