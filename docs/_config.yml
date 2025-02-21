@@ -23,7 +23,7 @@ email: vab55@cornell.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Professional website for Abby Boehm, graduate student researcher
   in the Department of Astronomy at Cornell University.
-baseurl: "https://github.com/AbbyBoehm/AbbyBoehm.github.io" # the subpath of your site, e.g. /blog
+baseurl: "AbbyBoehm.github.io" # the subpath of your site, e.g. /blog
 domain: "abbyboehm.github.io"
 url: "https://abbyboehm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
