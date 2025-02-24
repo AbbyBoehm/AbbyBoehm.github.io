@@ -9,159 +9,30 @@ redirect_from:
   - /download/
 ---
 
-# About
+# About me
 
 <!--author-->
 
-## Hydejack
+## Research
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
-{:.lead}
+I study exoplanets with a focus on observation and the development of software for reducing, calibrating, and/or interpreting data. My primary research interest is in the characterization of rocky world atmospheres and exospheres with a focus on volcanically-active exoplanets as an analog to the young Earth. Through my work I hope to reveal the details of the volcanic outgassing process that was necessary to build Earth's secondary atmosphere and thus make it the habitable world we live on today. I also broadly study atmospheres of all exoplanets through transmission spectroscopy with a focus in the ultraviolet-optical wavelengths. These underutilized wavelengths, currently serviced almost exclusively by the Hubble Space Telescope, are a vital probe into an exoplanetary atmosphere's aerosol structure, upper atmosphere photochemistry, and exospheric escape. While much of what we learn from the ultraviolet is derived solely from atmospheric mass above the troposphere (i.e. less than 80% of the total mass), these processes are pivotal in regulating the energy budget and chemical inventory of the surface and/or interior. Thus, a complete understanding of an exoplanet's atmosphere cannot be achieved without ultraviolet studies.
 
-1. this list will be replaced by the toc
-{:toc .large-only}
+Prior to my current work, I explored a wide variety of other research topics. I spent all four years of my undergraduate degree program at Penn State studying the material and electrical properties of cuprate superconductors including BSSCO. I participated in two REU programs with one prior to and one following the COVID-19 pandemic. My first REU was conducted onsite at Ohio Wesleyan University with Robert Harmon, wherein I studied the rotational variability of the magnetically-active young K-dwarf star LO Pegasi. My second REU was conducted remotely through Tufts University with Danilo Marchesini, with whom I developed software to fit the spectral energy distributions of galaxies at redshift z > 3 imaged through the split-K filters as part of FENIKS.
 
-![Screenshot](/assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
+Exoplanetary studies have been my passion since I was 11 years old, and I am thrilled to be part of the global and centuries-long effort to answer some of the most fundamental questions ever posed by our species. As part of my development as a PhD candidate, I intend to undertake academic, mentorship, and outreach opportunities to help guide other people towards this same sense of awe and wonderment.
 
-Hydejack's cover page on a variety of screen sizes.
-{:.figcaption}
+Learn more about my published research here: <!--research-->
 
+Learn more about my open-source software here: <!--software-->
 
-**Hydejack** is a boutique [Jekyll] theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress. 
+My CV is available for viewing here: <!--cv-->
 
-It includes a blog that is suitable for both prose and technical documentation, a portfolio to showcase your projects, and a resume template that looks amazing on the web and in print.
+## Education
 
-> Your complete presence on the web — A [blog], [portfolio], and [resume].
-{:.lead}
+I am currently pursuing my PhD at Cornell University under the supervision of Nikole Lewis as a part of the Substellar Explorers research group. I began my studies in August of 2022 and passed my qualifying exam in August of 2023. I completed my candidacy exam in March of 2025 and received my Masters in Astronomy and Space Sciences. I plan to defend my dissertation in June of 2027, and my anticipated graduation date is August of 2027.
 
+Prior to my PhD program, I graduated summa cum laude from Penn State University in 2022 with a Bachelor's of Science in Astrophysics, a Bachelor's of Science in Physics, and a Minor in Mathematics. I was fortunate to study at Penn State through the generous support of the sixth cohort of the Millennium Scholars Program, a diversity, equity, and inclusion scholarship program that aims to increase the number of persons in underrepresented groups successfully matriculating into PhD programs.
 
-## A Personal Site That Won't Disappear
+## Hobbies
 
-**Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
-
-Hydejack is all static sites. _HTML_. All you need is a web server — any web server — to have a professional web presence that lasts a lifetime.
-
-
-## A Free Blogging Theme
-**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
-
-<!--posts-->
-
-
-## An Impressive Portfolio
-A portfolio that's guaranteed to be impressive — no matter what you put into it.
-
-<!--projects-->
-
-
-## A Printable Resume
-Get a resume that's consistent across the board — whether it's on the web, mobile, print, or [PDF](/assets/Resume.pdf).
-
-[![Resume PDF](/assets/img/blog/resume.png){:.lead width="884" height="632" loading="lazy"}][resume]{:.no-hover.no-mark}
-
-Front and center page of a print resume generated by Hydejack.
-{:.figcaption}
-
-
-## Just Markdown
-Write all content with Markdown. __Hydejack__ gives you [additional CSS classes](docs/writing.md) to stylize your content, without losing compatibility with other Jekyll themes.
-
-
-## Just Markup
-**Hydejack** boasts a plethora of modern JavaScript, but make no mistake: It's still a _plain old web page_ at its core. It works without JavaScript and you can even view it in a text-based browser like `w3m`:
-
-![w3m Screenshot](/assets/img/blog/w3m.png){:.tail width="1920" height="1260" loading="lazy"}
-
-The Hydejack blog, as seen by the text browser `w3m`.
-{:.figcaption}
-
-
-## Syntax Highlighting
-**Hydejack** features syntax highlighting, powered by [Rouge].
-
-```html
-<!-- file: `_includes/my-body.html` -->
-<script type="module">
-  document.querySelector("hy-push-state").addEventListener("hy-push-state-load", () => {
-    const supportsCodeHighlights = false; // TBD!!
-  });
-</script>
-```
-
-Code blocks can have a filename and a caption.
-{:.figcaption}
-
-
-## Beautiful Math
-They say math is beautiful — and with **Hydejack**'s [math support][math] it's guaranteed to also look beautiful:
-
-$$
-\begin{aligned}
-  \phi(x,y) &= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right) \\[2em]
-            &= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
-            &= (x_1, \ldots, x_n)
-               \left(\begin{array}{ccc}
-                 \phi(e_1, e_1)  & \cdots & \phi(e_1, e_n) \\
-                 \vdots          & \ddots & \vdots         \\
-                 \phi(e_n, e_1)  & \cdots & \phi(e_n, e_n)
-               \end{array}\right)
-               \left(\begin{array}{c}
-                 y_1    \\
-                 \vdots \\
-                 y_n
-               \end{array}\right)
-\end{aligned}
-$$
-
-Hydejack uses KaTeX to efficiently render math.
-{:.figcaption}
-
-
-## Features
-
-{% include features.md %}
-
-
-## Download
-
-{% include table.md %}
-
-
-## Get It Now
-
-Use the the form below to purchase Hydejack PRO:
-
-<div class="gumroad-product-embed" data-gumroad-product-id="nuOluY"><a href="https://gumroad.com/l/nuOluY">Loading…</a></div>
-
-[jekyll]: https://jekyllrb.com
-
-[blog]: /
-[portfolio]: https://hydejack.com/examples/
-[resume]: https://hydejack.com/resume/
-[download]: https://hydejack.com/download/
-[welcome]: https://hydejack.com/
-[forms]: https://hydejack.com/forms-by-example/
-
-[features]: #features
-[news]: #build-an-audience
-[syntax]: #syntax-highlighting
-[latex]: #beautiful-math
-[dark]: https://hydejack.com/blog/hydejack/2018-09-01-introducing-dark-mode/
-[search]: https://hydejack.com/#_search-input
-[grid]: https://hydejack.com/blog/hydejack/
-
-[lic]: LICENSE.md
-[pro]: licenses/PRO.md
-[docs]: docs/README.md
-[ofln]: docs/advanced.md#enabling-offline-support
-[math]: docs/writing.md#adding-math
-
-[kit]: https://github.com/hydecorp/hydejack-starter-kit/releases
-[src]: https://github.com/hydecorp/hydejack
-[gem]: https://rubygems.org/gems/jekyll-theme-hydejack
-[buy]: https://gum.co/nuOluY
-
-[gpss]: https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fhydejack.com%2Fdocs%2F
-[rouge]: http://rouge.jneen.net
-[katex]: https://khan.github.io/KaTeX/
-[mathjax]: https://www.mathjax.org/
+While exoplanets are my lifelong passion, I have a lot of love for our own planet as well and can often be found hiking through our world's beautiful wilderness. I am an avid birdwatcher, armchair geologist, and friend to all mushrooms no matter how slimy. When the weather does not favor exploring the real world, I explore the worlds of video games and art instead. I am also an enthusiastic home chef with a fascination for replicating fictional foods and creating form V chocolate crystals.
