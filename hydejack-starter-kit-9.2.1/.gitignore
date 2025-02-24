@@ -1,11 +1,3 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
-Gemfile.lock
-*/.DS_store
-
 # Ignore docs files
 _site
 _drafts
@@ -54,5 +46,3 @@ _zip
 
 /assets/js/*hydejack-*
 /_sass/*/__*__/*
-
-*_attempt/
