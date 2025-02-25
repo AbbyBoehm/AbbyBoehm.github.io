@@ -30,9 +30,11 @@ url: "https://abbyboehm.github.io" # the base hostname & protocol for your site,
 github_username:  AbbyBoehm
 
 # Build settings
-theme: minima
+remote_theme: vszhub/not-pure-poole
 plugins:
   - jekyll-feed
+  - not-pure-poole
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
