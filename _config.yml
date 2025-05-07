@@ -65,7 +65,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "demented_saint" # Username
+  steam            : "opossumbob" # Username
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
@@ -295,7 +295,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: EST # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
