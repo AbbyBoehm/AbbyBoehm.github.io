@@ -27,7 +27,7 @@ Academic Background
 ------
 I joined Cornell University's Astronomy and Space Sciences Program in 2022, as a member of Nikole Lewis's Substellar Explorers research group. I passed my candidacy exam in 2025 and earned an M.S. in Astronomy and Space Sciences with a focus in Exoplanets. My anticipated dissertation defense date is in June of 2027.
 
-I graduated summa cum laude from Penn State University in 2022 with a B.S. in Astrophysics, a B.S. in Physics, and a Minor in Mathematics. While there, I worked with Dr. Eric Hudson to conduct research into the electronic properties of strained graphene and BSSCO as observed through scanning tunnelling microscopy. I also worked remotely with Dr. Danilo Marchesini at Tufts University in the summer of 2021; I based my senior thesis project on our research into the evolution of galaxies through the use of medium width K-band filters. Before that, I spent the summer of 2019 working with Dr. Robert Harmon at Ohio Wesleyan University on the applications of light-curve inversion techniques for inferring starspot distribution on the surface of the rotating variable star LO Pegasi. Apart from research, I was also engaged in peer mentoring and tutoring programs at Penn State, working as a learning assistant for second-year astrophysics classes and as a tutor for first-year courses in mathematics and physics. I am grateful to have attended Penn State University through the support of the Millennium Scholars Program, a scholarship and DEI program aimed at supporting PhD-seeking scholars from groups considered underrepresented within STEM.
+Prior to this, I graduated summa cum laude from Penn State University in 2022 with a B.S. in Astrophysics, a B.S. in Physics, and a Minor in Mathematics. While there, I worked with Dr. Eric Hudson to conduct research into the electronic properties of strained graphene and BSSCO as observed through scanning tunnelling microscopy. I also worked remotely with Dr. Danilo Marchesini at Tufts University in the summer of 2021; I based my senior thesis project on our research into the evolution of galaxies through the use of medium width K-band filters. Before that, I spent the summer of 2019 working with Dr. Robert Harmon at Ohio Wesleyan University on the applications of light-curve inversion techniques for inferring starspot distribution on the surface of the rotating variable star LO Pegasi. Apart from research, I was also engaged in peer mentoring and tutoring programs at Penn State, working as a learning assistant for second-year astrophysics classes and as a tutor for first-year courses in mathematics and physics. I am grateful to have attended Penn State University through the support of the Millennium Scholars Program, a scholarship and DEI program aimed at supporting PhD-seeking scholars from groups considered underrepresented within STEM.
 
 Other Interests
 ------
@@ -35,6 +35,6 @@ Outside of science, I am among other things an artist, gamer, birdwatcher, and b
 
 ![Painting for science outreach](/images/demo-space-painting.png)
 
-For more info
+Let's Collaborate!
 ------
 Check out the sidebar or the [Contact](https://abbyboehm.github.io/research/) tab to get in touch!
