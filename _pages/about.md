@@ -19,7 +19,7 @@ On the smaller side of things, I work to connect the interior conditions and com
 
 Outside of the ultraviolet-optical, I also work on exoplanet characterization in the infrared with JWST, for which I am also developing the [Juniper](https://github.com/AbbyBoehm/Juniper) data reduction pipeline. I have applied Juniper to the reduction of transits of the white dwarf-orbiting gas giant WD 1856+534b ([JWST-GO 2358](https://www.stsci.edu/jwst-program-info/download/jwst/pdf/2358/), PI: Ryan MacDonald) and of TRAPPIST-1 b and e ([JWST-GO 6456](https://www.stsci.edu/jwst-program-info/download/jwst/pdf/6456/) and [JWST-GO 9256](https://www.stsci.edu/jwst-program-info/download/jwst/pdf/9256/): PIs: Natalie Allen and Nestor Espinoza).
 
-You can find all of my published work on [NASA ADS!](https://ui.adsabs.harvard.edu/public-libraries/t4SjX4GXSNOOsOoPCsPtmQ)
+See all of my published works on [NASA ADS!](https://ui.adsabs.harvard.edu/public-libraries/t4SjX4GXSNOOsOoPCsPtmQ)
 
 Check out the [Projects](https://abbyboehm.github.io/projects/) and [Publications](https://abbyboehm.github.io/publications/) tabs to learn more about my work!
 
@@ -37,4 +37,4 @@ Outside of science, I am among other things an artist, gamer, birdwatcher, and b
 
 Let's Collaborate!
 ------
-Check out the sidebar or the [Contact](https://abbyboehm.github.io/research/) tab to get in touch!
+Check out the sidebar or the [Contact](https://abbyboehm.github.io/contact/) tab to get in touch!
