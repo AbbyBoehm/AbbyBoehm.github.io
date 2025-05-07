@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : "https://search/?query=Boehm%2C+V+A+&searchtype=author&abstracts=show&order=-announced_date_first&size=50" # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/?query=Boehm%2C+V+A+&searchtype=author&abstracts=show&order=-announced_date_first&size=50" # URL - Update with the correct link to your profile
   googlescholar    : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-4945-1860"
