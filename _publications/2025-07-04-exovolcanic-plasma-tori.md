@@ -13,4 +13,6 @@ citation: 'Boehm, V. A., Seligman, D. Z., and Lewis, N. K. (accepted). &quot;Con
 
 Abstract
 ------
-Coming soon!
+<div style="text-align: justify; text-justify: inter-word;">
+    <p>Coming soon!</p>
+</div>
