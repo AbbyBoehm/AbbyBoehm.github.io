@@ -15,11 +15,12 @@ HUSTLE-tools [v0.2]
 </div>
 
 [Check it out on GitHub!](https://github.com/Exo-TiC/HUSTLE-tools)
+
 [Read the JOSS paper!]()
 
 **Papers that have used HUSTLE-tools, Hazelnut, and/or lluvia:**
-* Boehm, V. A. et al. (2024). &quot;The HUSTLE Program: The UV to Near-infrared HST WFC3/UVIS G280 Transmission Spectrum of WASP-127b.&quot; <i>The Astronomical Journal</i>. 169(23).
-* Gasc&oacute;n, C. et al. (accepted). &quot;The HUSTLE Program: The UV to Near-IR Transmission Spectrum of the Hot Jupiter KELT-7b.&quot; <i>The Astronomical Journal</i>.
+* [Boehm, V. A. et al. (2024). &quot;The HUSTLE Program: The UV to Near-infrared HST WFC3/UVIS G280 Transmission Spectrum of WASP-127b.&quot; <i>The Astronomical Journal</i>. 169(23).](https://iopscience.iop.org/article/10.3847/1538-3881/ad8dde/pdf)
+* [Gasc&oacute;n, C. et al. (accepted). &quot;The HUSTLE Program: The UV to Near-IR Transmission Spectrum of the Hot Jupiter KELT-7b.&quot; <i>The Astronomical Journal</i>.]()
 
 Juniper [v0.1]
 ------
@@ -30,7 +31,8 @@ Juniper [v0.1]
 </div>
 
 [Check it out on GitHub!](https://github.com/AbbyBoehm/Juniper)
+
 [JOSS paper TBA!]()
 
 **Papers that have used Juniper:**
-* MacDonald, R. et al. (accepted). &quot;Aerosols and Hydrocarbons in the Atmosphere of a White Dwarf Planet.&quot; <i>Nature</i>.
+* [MacDonald, R. et al. (accepted). &quot;Aerosols and Hydrocarbons in the Atmosphere of a White Dwarf Planet.&quot; <i>Nature</i>.]()
