@@ -38,7 +38,7 @@ Academic Background
 Other Interests
 ------
 <div style="text-align: justify; text-justify: inter-word;">
-  <p>Outside of science, I am among other things an artist, gamer, birdwatcher, and baker. You can find me and my art on Instagram at <a href="https://www.instragram.com/opossum.bob/">opossum.bob</a>.</p>
+  <p>Outside of science, I am among other things an artist, gamer, birdwatcher, and baker. You can find me and my art on Instagram at <a href="https://www.instagram.com/opossum.bob/">opossum.bob</a>.</p>
 </div>
 
 ![Painting for science outreach coming soon!](/images/demo-space-painting.png)
