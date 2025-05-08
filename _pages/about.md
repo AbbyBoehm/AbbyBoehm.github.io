@@ -31,7 +31,7 @@ Prior to this, I graduated summa cum laude from Penn State University in 2022 wi
 
 Other Interests
 ------
-Outside of science, I am among other things an artist, gamer, birdwatcher, and baker. You can find me and my art on Instagram ([opossum.bob](https://www.instagram.com/opossumbob/)).
+Outside of science, I am among other things an artist, gamer, birdwatcher, and baker. You can find me and my art on Instagram ([opossum.bob](https://www.instagram.com/opossum.bob/)).
 
 ![Painting for science outreach](/images/demo-space-painting.png)
 
