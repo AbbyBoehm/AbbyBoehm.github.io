@@ -390,7 +390,7 @@ def create_cv_json(md_file, config_file, repo_root, output_file):
     cv_json["publications"] = parse_publications(os.path.join(repo_root, "_publications"))
     
     # Add talks
-    cv_json["presentations"] = parse_talks(os.path.join(repo_root, "_talks"))
+    cv_json["presentations"] = parse_talks(os.path.join(repo_root, "_presentations"))
     
     # Add teaching
     cv_json["teaching"] = parse_teaching(os.path.join(repo_root, "_teaching"))

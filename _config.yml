@@ -217,13 +217,16 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  presentations:
     output: true
     permalink: /:collection/:path/
 
@@ -266,6 +269,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -278,7 +290,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: presentations
     values:
       layout: talk
       author_profile: true
