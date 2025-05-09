@@ -2,7 +2,7 @@
 title: "HUSTLE: Overview of the program and updates from OWL"
 collection: presentations
 type: "Contributed talk"
-permalink: /presentations/2024-07-26-hustle-OWL
+permalink: /presentation/2024-07-26-hustle-OWL
 venue: "University of Santa Cruz"
 date: 2024-07-26
 location: "Santa Cruz, CA, USA"

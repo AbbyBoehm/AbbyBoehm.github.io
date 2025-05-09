@@ -2,7 +2,7 @@
 title: "The HUSTLE Program: Towards a Uniform UVIS Analysis of 12 Hot to Ultra-Hot Jupiters"
 collection: presentations
 type: "Contributed talk"
-permalink: /presentations/2024-07-10-ERES_IX_talk
+permalink: /presentation/2024-07-10-ERES_IX_talk
 venue: "Cornell University"
 date: 2024-07-10
 location: "Ithaca, NY, USA"
