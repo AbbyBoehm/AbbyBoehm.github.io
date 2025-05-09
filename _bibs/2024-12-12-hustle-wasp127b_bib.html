@@ -1,67 +1,38 @@
 ---
-title: "BibTex Citation"
+title: "BibTex Citation for Boehm et al. (2024)"
 permalink: /bib/2024-12-12-hustle-wasp127b_bib.html
 author_profile: false
 ---
-{% include base_path %}
+<div class="code-container" style="position: relative; margin-bottom: 1em;">
 
-<head>
-    <meta charset="UTF-8">
-    <style>
-        .code-container {
-            position: relative;
-            margin-bottom: 1em;
+    <button onclick="copyCode()" style="position: absolute; top: 10px; right: 10px; padding: 5px 10px; font-size: 0.9em; cursor: pointer;">Copy</button>
+    
+    <div id="code-block" style="background-color: #f4f4f4; border: 1px solid #ccc; padding: 10px; overflow: auto; max-height: 300px; font-family: monospace; white-space: pre;">
+        @article{Boehm_2025,
+            doi = {10.3847/1538-3881/ad8dde},
+            url = {https://dx.doi.org/10.3847/1538-3881/ad8dde},
+            year = {2024},
+            month = {dec},
+            publisher = {The American Astronomical Society},
+            volume = {169},
+            number = {1},
+            pages = {23},
+            author = {Boehm, V. A. and Lewis, N. K. and Fairman, C. E. and Moran, S. E. and Gascón, C. and Wakeford, H. R. and Alam, M. K. and Alderson, L. and Barstow, J. and Batalha, N. E. and Grant, D. and López-Morales, M. and MacDonald, R. J. and Marley, Mark S. and Ohno, K.},
+            title = {The HUSTLE Program: The UV to Near-infrared HST WFC3/UVIS G280 Transmission Spectrum of WASP-127b},
+            journal = {The Astronomical Journal},
+            abstract = {Ultraviolet wavelengths offer unique insights into aerosols in exoplanetary atmospheres. However, only a handful of exoplanets have been observed in the ultraviolet to date. Here, we present the ultraviolet-visible transmission spectrum of the inflated hot Jupiter WASP-127b. We observed one transit of WASP-127b with WFC3/UVIS G280 as part of the Hubble Ultraviolet-optical Survey of Transiting Legacy Exoplanets, obtaining a transmission spectrum from 200 to 800 nm. Our reductions yielded a broadband transit depth precision of 91 ppm and a median precision of 240 ppm across 59 spectral channels. Our observations are suggestive of a high-altitude cloud layer with forward modeling showing they are composed of submicron particles and retrievals indicating a high-opacity patchy cloud. While our UVIS/G280 data only offer weak evidence for Na, adding archival Hubble Space Telescope (HST) WFC3/IR and STIS observations raises the overall Na detection significance to 4.1σ. Our work demonstrates the capabilities of HST WFC3/UVIS G280 observations to probe the aerosols and atmospheric composition of transiting hot Jupiters with comparable precision to HST STIS.}
             }
-        .code-box {
-            background-color: #f4f4f4;
-            border: 1px solid #ccc;
-            padding: 10px;
-            overflow: auto;
-            max-height: 300px;
-            font-family: monospace;
-            white-space: pre;
-        }
-        .copy-box {
-            position: absolute;
-            top: 10px;
-            right: 10px;
-            padding: 5px 10px;
-            font-size: 0.9em;
-            cursor: pointer;
-        }
-    </style>
-</head>
-
-<body>
-<div class="code-container">
-    <button class="copy-button" onclick="CopyCode()">Copy</button>
-    <div id="code-block" class="code-box">
-@article{Boehm_2025,
-doi = {10.3847/1538-3881/ad8dde},
-url = {https://dx.doi.org/10.3847/1538-3881/ad8dde},
-year = {2024},
-month = {dec},
-publisher = {The American Astronomical Society},
-volume = {169},
-number = {1},
-pages = {23},
-author = {Boehm, V. A. and Lewis, N. K. and Fairman, C. E. and Moran, S. E. and Gascón, C. and Wakeford, H. R. and Alam, M. K. and Alderson, L. and Barstow, J. and Batalha, N. E. and Grant, D. and López-Morales, M. and MacDonald, R. J. and Marley, Mark S. and Ohno, K.},
-title = {The HUSTLE Program: The UV to Near-infrared HST WFC3/UVIS G280 Transmission Spectrum of WASP-127b},
-journal = {The Astronomical Journal},
-abstract = {Ultraviolet wavelengths offer unique insights into aerosols in exoplanetary atmospheres. However, only a handful of exoplanets have been observed in the ultraviolet to date. Here, we present the ultraviolet-visible transmission spectrum of the inflated hot Jupiter WASP-127b. We observed one transit of WASP-127b with WFC3/UVIS G280 as part of the Hubble Ultraviolet-optical Survey of Transiting Legacy Exoplanets, obtaining a transmission spectrum from 200 to 800 nm. Our reductions yielded a broadband transit depth precision of 91 ppm and a median precision of 240 ppm across 59 spectral channels. Our observations are suggestive of a high-altitude cloud layer with forward modeling showing they are composed of submicron particles and retrievals indicating a high-opacity patchy cloud. While our UVIS/G280 data only offer weak evidence for Na, adding archival Hubble Space Telescope (HST) WFC3/IR and STIS observations raises the overall Na detection significance to 4.1σ. Our work demonstrates the capabilities of HST WFC3/UVIS G280 observations to probe the aerosols and atmospheric composition of transiting hot Jupiters with comparable precision to HST STIS.}
-}
     </div>
+    
 </div>
-
+    
 <script>
-    function CopyCode() {
-        const code = document.getElementById('code-block').innerText;
-        navigator.clipboard.writeText(code).then(() => {
-            alert("Citation copied to clipboard!");
-        }).catch(err => {
-            alert("Failed to copy citation: " + err);
-        });
-    }
+function copyCode() {
+    const code = document.getElementById('code-block').innerText;
+    navigator.clipboard.writeText(code).then(() => {
+    alert("Citation copied to clipboard!");
+    }).catch(err => {
+    alert("Failed to copy citation: " + err);
+    });
+}
 </script>
-
-</body>
