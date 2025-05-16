@@ -29,8 +29,8 @@ $sidebar-screen-min-width   : 1024px;
 /* Default light theme for the site */
 :root {
     --global-base-color                 : #{$gray};
-    --global-navbar-color               : mix(#110897,  #ffffff, 15%);
-    --global-navbar-color               : mix(#110897,  #ffffff, 15%);
+    --global-navbar-color               : mix(#fff,  #110897, 2%);
+    --global-navbar-color               : mix(#fff,  #110897, 2%);
     --global-bg-color                   : #fff;
     --global-footer-bg-color            : #f2f3f3;
     --global-border-color               : #{$lighter-gray};
