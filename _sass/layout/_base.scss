@@ -7,6 +7,7 @@ html {
   min-height: 100%;
 }
 
+/*controls properties of bodies of font*/
 body {
   /* Set via _themes.scss */
   color: var(--global-text-color);
@@ -24,12 +25,12 @@ body {
   }
 }
 
+/*controls properties of all sizes of header*/
 h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
   font-family: $header-font-family;
   font-weight: bold;
-  background-color: #00CC00;
 }
 
 h1 {
@@ -57,10 +58,12 @@ h6 {
   font-size: $type-size-6;
 }
 
+/*defines what is meant by "small" font*/
 small, .small {
   font-size: $type-size-6;
 }
 
+/*controls margin below a paragraph environment*/
 p {
   margin-bottom: 1.3em;
 }
@@ -136,6 +139,7 @@ pre {
   overflow-x: auto; /* add scrollbars to wide code blocks*/
 }
 
+/*controls properties of embedded blocks of code*/
 a > code,
 figcaption > code,
 li > code,
@@ -296,6 +300,7 @@ nav {
   ul {
     margin: 0;
     padding: 0;
+    background-color: #00CC00;
   }
 
   li {
