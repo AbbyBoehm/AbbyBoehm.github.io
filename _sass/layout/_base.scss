@@ -299,8 +299,7 @@ svg:not(:root) {
 nav {
   ul {
     margin: 0;
-    padding: 0;
-    background-color: #00CC00;
+    padding: 0; /*adding bckg color here does nothing*/
   }
 
   li {
