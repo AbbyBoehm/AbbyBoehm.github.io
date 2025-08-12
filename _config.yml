@@ -110,10 +110,10 @@ footer_links:
     icon: fab fa-github-square
   - title: Instagram
     url: https://www.instagram.com/opossum.bob/
-    icon: fab fa-instagram-square
+    icon: fab fa-instagram
   - title: LinkedIn
     url: https://www.linkedin.com/in/abby-boehm-547796173/
-    icon: fab fa-linkedin-square
+    icon: fab fa-linkedin
   - title: Steam
     url: https://steamcommunity.com/id/opossumbob
     icon: fab fa-steam-square
