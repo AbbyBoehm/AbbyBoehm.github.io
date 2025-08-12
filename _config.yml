@@ -105,19 +105,19 @@ author:
 footer_links:
   - title: Email
     url: mailto:vab55@cornell.edu
-    icon: fas fa-rss-square 
+    icon: fa fa-envelope
   - title: GitHub
     url: https://github.com/AbbyBoehm/
-    icon: fas fa-rss-square 
+    icon: fa fa-github-square 
   - title: Instagram
     url: https://www.instagram.com/opossum.bob/
-    icon: fas fa-rss-square 
+    icon: fa fa-instagram
   - title: LinkedIn
     url: https://www.linkedin.com/in/abby-boehm-547796173/
-    icon: fas fa-rss-square 
+    icon: fa fa-linkedin-square 
   - title: Steam
     url: https://steamcommunity.com/id/opossumbob
-    icon: fas fa-rss-square 
+    icon: fa fa-steam-square 
 
   #- title: Feed
   #  url: atom.xml
