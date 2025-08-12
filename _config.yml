@@ -103,8 +103,20 @@ author:
 
 # Footer Links
 footer_links:
+  - title: Email
+    url: vab55@cornell.edu
+    icon: fas fa-rss-square 
   - title: GitHub
     url: https://github.com/AbbyBoehm/
+    icon: fas fa-rss-square 
+  - title: Instagram
+    url: https://www.instagram.com/opossum.bob/
+    icon: fas fa-rss-square 
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/abby-boehm-547796173/
+    icon: fas fa-rss-square 
+  - title: Steam
+    url: https://steamcommunity.com/id/opossumbob
     icon: fas fa-rss-square 
 
   #- title: Feed
