@@ -107,7 +107,7 @@ footer_links:
     icon: fa fa-envelope
   - title: GitHub
     url: https://github.com/AbbyBoehm/
-    icon: fab fa-square-github
+    icon: fab fa-github-square
   - title: Instagram
     url: https://www.instagram.com/opossum.bob/
     icon: fab fa-square-instagram
