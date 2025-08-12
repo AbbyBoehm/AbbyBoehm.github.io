@@ -18,7 +18,6 @@ remote_theme            : mmistakes/so-simple-theme@3.2.0
 skin                    : "/assets/css/skins/dark.css"
 locale                  : en-US
 title                   : "Abby Boehm"
-title_separator         : "-"
 description             : "PhD Candidate in Exoplanetary Sciences"
 baseurl                 : # the subpath of your site, e.g. "/blog"
 url                     : https://AbbyBoehm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -108,16 +107,16 @@ footer_links:
     icon: fa fa-envelope
   - title: GitHub
     url: https://github.com/AbbyBoehm/
-    icon: fa fa-github-square 
+    icon: fab fa-square-github
   - title: Instagram
     url: https://www.instagram.com/opossum.bob/
-    icon: fa fa-instagram
+    icon: fab fa-square-instagram
   - title: LinkedIn
     url: https://www.linkedin.com/in/abby-boehm-547796173/
-    icon: fa fa-linkedin-square 
+    icon: fab fa-square-linkedin
   - title: Steam
     url: https://steamcommunity.com/id/opossumbob
-    icon: fa fa-steam-square 
+    icon: fab fa-square-steam
 
   #- title: Feed
   #  url: atom.xml
