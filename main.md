@@ -1,15 +1,10 @@
 ---
-title: "Layout: Hero Image"
+title: "Hello!"
+permalink: /
 image: 
   path: /images/banner.png
   thumbnail: /images/banner.png
   caption: "Ad Astra"
-categories:
-  - Layout
-tags:
-  - content
-  - image
-  - layout
 ---
 
 This post should display a large hero image at the top of a page.
