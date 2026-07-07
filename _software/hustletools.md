@@ -1,6 +1,7 @@
 ---
 title: "HUSTLE-tools"
 image: 
+  path: /images/dummy_image.png
   thumbnail: /images/hustle-tools_logo.png
 ---
 HUSTLE-tools is an open-source data reduction pipeline for time-series observations with HST WFC3/UVIS G280.
