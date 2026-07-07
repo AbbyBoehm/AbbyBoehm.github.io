@@ -1,7 +1,7 @@
 ---
 layout: home
 #title: "Hello!"
-permalink: /secret/
+permalink: /
 image: 
   path: /images/banner.png
   thumbnail: /images/banner.png
