@@ -1,8 +1,5 @@
 ---
 title: "HUSTLE-Tools"
-layout: post
-permalink: /software/hustle-tools/
-sitemap: false
 image: 
   path: /images/hustle-tools_logo.png
   thumbnail: /images/hustle-tools_logo.png
