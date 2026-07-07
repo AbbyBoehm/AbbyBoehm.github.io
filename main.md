@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: home
 #title: "Hello!"
 permalink: /
-header:
-  image: /images/hero.png
+image:
+  path: /images/hero.png
   caption: "Image credit: ESO/M. Kornmesser"
 ---
 
