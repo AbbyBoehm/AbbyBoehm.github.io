@@ -6,6 +6,6 @@ header:
   overlay_image: /images/banner.png
   overlay_filter: 0.25
   caption: "Image credit: ESO/M. Kornmesser"
-excerpt: "Hello!
+excerpt: "Hello!"
 ---
 Hello again!
