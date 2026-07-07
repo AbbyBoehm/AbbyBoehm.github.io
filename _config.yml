@@ -20,7 +20,7 @@ locale                  : en-US
 title                   : "Abby Boehm"
 description             : "PhD Candidate in Exoplanetary Sciences"
 baseurl                 : # the subpath of your site, e.g. "/blog"
-url                     : https://AbbyBoehm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                     : # https://AbbyBoehm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo                    : "/images/pic.png" # path of site logo, e.g. "/images/logo.png"
 image: 
   path: /images/banner.png
